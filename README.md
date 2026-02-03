@@ -4,12 +4,11 @@ A modern web-based parking lot management system built with React and Vite.
 The application efficiently manages parking slots, supports EV charging and covered parking preferences, and provides a clean, responsive user interface with smooth animations.
 
 ## Live Demo
-Live URL: <YOUR_DEPLOYMENT_URL>
+Live URL: [smartparkingsyste.netlify.app](https://smartparkingsyste.netlify.app/)
 
 ## GitHub Repository
-Repository: <YOUR_GITHUB_REPO_URL>
+Repository: [smart-parking-system](https://github.com/harshtiwari2022/smart-parking-system)
 
----
 
 ## Features
 
@@ -20,7 +19,6 @@ Repository: <YOUR_GITHUB_REPO_URL>
 - Clean, modern UI with smooth animations
 - Fully responsive design for desktop and mobile devices
 
----
 
 ## Tech Stack
 
@@ -30,7 +28,6 @@ Repository: <YOUR_GITHUB_REPO_URL>
 - **State Management:** React Hooks
 - **Deployment:** Vercel / Netlify
 
----
 
 ## Application Flow
 
@@ -40,7 +37,6 @@ Repository: <YOUR_GITHUB_REPO_URL>
 4. Vehicle can be removed from a slot, making it available again.
 5. Slot grid updates in real time to reflect the current status.
 
----
 
 ## Components Overview
 
@@ -50,10 +46,36 @@ Repository: <YOUR_GITHUB_REPO_URL>
 - **SlotGrid** – Visual representation of all parking slots
 - **MessagePanel** – Displays system feedback messages
 
----
 
 ## Installation & Setup
 
 1. Clone the repository:
    ```bash
    git clone <REPOSITORY_URL>
+   ```
+2. Navigate to the project directory:
+    ```bash
+    cd smart-parking-system 
+    ```
+3. Install dependencies:
+    ```bash 
+    npm install
+    ```
+4. Start the development server:
+    ```bash
+    npm run dev
+    ```
+5. Open the app in your browser: ```http://localhost:5173```
+
+## Future Improvements
+
+- Authentication and role-based access
+- Parking analytics dashboard
+- Auto-dismiss notifications
+- Dark mode support
+- Backend integration with database
+
+## Demo Video
+
+Demo video link: [ Assignment video](https://docs.google.com/videos/d/1MQQtec479tdMem0zAXKlvhBZMfPlQxrwZIvFQeGb2WY/edit?usp=sharing)
+
